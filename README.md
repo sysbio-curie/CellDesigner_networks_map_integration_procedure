@@ -1,5 +1,5 @@
 # CellDesigner_networks_map_integration_procedure
-Repository containing a procedure and scripts allowing to add elements on top of [CellDesigner](http://www.celldesigner.org/) maps and integrate them without overlaps with existing entities. It makes usage of Java apps ([BiNoM](https://binom.curie.fr/)) and python scripts, included in the folder scripts.
+Repository containing a procedure and [scripts](scripts) allowing to add elements on top of [CellDesigner](http://www.celldesigner.org/) maps and integrate them without overlaps with existing entities. It makes usage of Java apps ([BiNoM](https://binom.curie.fr/)) and python [scripts](scripts), included in the folder [scripts](scripts).
 This procedure has been used to generate a Metabolic map by adding Protein on top of catalysed reactions. The map used for this work is [ReconMap 2.0](https://www.nature.com/articles/nbt.2488).
 Even though this procedure will describe how to add catalysing proteins in the vicinity of metabolic reactions, this procedure can be generalised to more various tasks.
 The procedure consists in several steps:
