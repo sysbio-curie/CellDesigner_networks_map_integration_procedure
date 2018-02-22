@@ -1,0 +1,2 @@
+# CellDesigner_networks_map_integration_procedure
+Procedure for integration of networks of CellDesigner maps
